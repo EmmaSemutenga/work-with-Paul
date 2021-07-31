@@ -49,5 +49,6 @@ else:
 print(myname)
 print(__name__)
 
-
+# Loops (for, while), break
+# Classes (definition, attribute shadowing, self(this for other languages), inheritance)
 
